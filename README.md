@@ -1,4 +1,2 @@
 # trend-reu
-
-##TODO:
-clean this up
+TODO: clean this up
